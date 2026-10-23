@@ -1,0 +1,18 @@
+# Compiled executables
+MergeMind
+MergeMind.exe
+main
+*.exe
+
+# Saved game data
+saves/
+mergemind_save.txt
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
